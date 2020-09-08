@@ -13,3 +13,11 @@ The main focus was to create an Application Programming Interface (API) for the 
 [Practical Video 04 - Methods in object oriented programming (Add Pirate to Map)](https://drive.google.com/file/d/1SGoeP8OTPk1UI4gu6tQw9yjQAlXI3bLK/view)
 
 [Practical Video 05 - Selecting and Moving Pirates in a Map](https://drive.google.com/file/d/17H1d0_RJOZMCSpOppvRdmcXRT8Ohekms/view)
+
+[Practical Video 06 - Hiding Data Fields in Pirate Class (Encapsulation)](https://drive.google.com/file/d/1KfUqnOS5jS65i0kIbhPcIUZQrR4WYnTL/view)
+
+[Practical Video 07 - Hiding Data Fields in Map Class (Encapsulation)](https://drive.google.com/file/d/1vD33IBmHLlAgmJCPnFO2jIlqc4JJaSZ3/view)
+
+[Practical Video 08 - Adding Weapons (Inheritance)](https://drive.google.com/file/d/199Jux7UlUH7qAUCl9lQMY4_MnbGEyJWx/view)
+
+[Practical Video 09 - Understanding Polymorphism](https://drive.google.com/file/d/1mUAkchG7PwSnyEVJRmt1kSO7IggQaPX8/view)
