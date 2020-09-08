@@ -20,4 +20,4 @@ The main focus was to create an Application Programming Interface (API) for the 
 
 [Practical Video 08 - Adding Weapons (Inheritance)](https://drive.google.com/file/d/199Jux7UlUH7qAUCl9lQMY4_MnbGEyJWx/view)
 
-[Practical Video 09 - Understanding Polymorphism](https://drive.google.com/file/d/1mUAkchG7PwSnyEVJRmt1kSO7IggQaPX8/view)
+[Practical Video 09 - Further Understanding Inheritance](https://drive.google.com/file/d/1mUAkchG7PwSnyEVJRmt1kSO7IggQaPX8/view)
