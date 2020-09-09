@@ -174,9 +174,9 @@ public class ConsolePirateGame {
 	public static void movePirate(int direction) {
 		int x = -1;
 		int y = -1;
-		System.out.println("To which x coordinate:");
+		System.out.println("Pirate x coordinate:");
 		x = Integer.parseInt(scanner.nextLine());
-		System.out.println("To which y coordinate:");
+		System.out.println("Pirate y coordinate:");
 		y = Integer.parseInt(scanner.nextLine());
 		
 		switch(direction) {
