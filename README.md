@@ -21,3 +21,17 @@ The main focus was to create an Application Programming Interface (API) for the 
 [Practical Video 08 - Adding Weapons (Inheritance)](https://drive.google.com/file/d/199Jux7UlUH7qAUCl9lQMY4_MnbGEyJWx/view)
 
 [Practical Video 09 - Further Understanding Inheritance](https://drive.google.com/file/d/1mUAkchG7PwSnyEVJRmt1kSO7IggQaPX8/view)
+
+[Practical Video 10 - Understanding Polymorphism](https://drive.google.com/file/d/1-VtV0xp0ZkRkAG-49uwaOdyh-vGBrdMY/view)
+
+[Practical Video 11 - Pirate equipping Weapon (Polymorphism)](https://drive.google.com/file/d/1WlopyccYy3TvAiP_G5us6_qKSnsPaNdG/view)
+
+[Practical Video 12 - Disable creating Weapon object and adding different objects in a Map (Abstraction)](https://drive.google.com/file/d/1LTz_elZGeHYswUnD1C8FaI4hlBFBTszf/view)
+
+[Practical Video 13 - Create console application for the Pirate Game API](https://drive.google.com/file/d/1FEfqeH2gNZhxbIayv_s9g34S_US6xXlZ/view)
+
+[Practical Video 14 - Setting up JavaFX application (for the Pirate Game API)](https://drive.google.com/file/d/1lFdYYxPj23oVcDInYU1THjQPlk5FW5YP/view)
+
+[Practical Video 15 - Represent Map in JavaFX (for the Pirate Game API)](https://drive.google.com/file/d/1fpub2aiSEzhXaIBO2jFD3lGryovw9yAs/view)
+
+[Practical Video 16 - Move Pirate JavaFX Buttons (for the Pirate Game API)](https://drive.google.com/file/d/1anLYLFpIDp8z4mBVG-VdIWCjCHkSZyIw/view)
