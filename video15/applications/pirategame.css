@@ -1,0 +1,17 @@
+{
+	-fx-font-size: 12pt;
+}
+
+.placeable_label {
+	-fx-border-style: solid;
+	-fx-border-width: 2;
+	-fx-border-color: black;
+	-fx-min-height: 100px;
+	-fx-max-height: 100px;
+	-fx-min-width: 200px;
+	-fx-max-width: 200px;
+}
+
+.placeable_label_selected {
+	-fx-background-color: gray;
+}
