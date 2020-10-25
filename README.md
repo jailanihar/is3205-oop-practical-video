@@ -35,3 +35,5 @@ The main focus was to create an Application Programming Interface (API) for the 
 [Practical Video 15 - Represent Map in JavaFX (for the Pirate Game API)](https://drive.google.com/file/d/1fpub2aiSEzhXaIBO2jFD3lGryovw9yAs/view)
 
 [Practical Video 16 - Move Pirate JavaFX Buttons (for the Pirate Game API)](https://drive.google.com/file/d/1anLYLFpIDp8z4mBVG-VdIWCjCHkSZyIw/view)
+
+[Practical Video 17 - Add Pirate, Weapon and Potion JavaFX Buttons (for the Pirate Game API)](https://drive.google.com/file/d/1WTN8z1UFfPFU4fbUVF2-Vj6TNc1IgoCr/view)
