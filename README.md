@@ -4,6 +4,7 @@ In this practical videos, we are covering how to implement a pirate game while c
 
 The main focus was to create an Application Programming Interface (API) for the pirate game while testing them through console. Then implementing them into a basic graphical user interface application to interact that make use of API.
 
+## Pirate Game
 [Practical Video 01 - Scenario explanation](https://drive.google.com/file/d/1k7J1ZQnEjYQolW1vDn8gnARYi3FgJVJU/view)
 
 [Practical Video 02 - State of objects and initialising objects (Pirate)](https://drive.google.com/file/d/18_h74nJQJUxm0V7w40O80_VjU6N2B20J/view)
@@ -37,3 +38,11 @@ The main focus was to create an Application Programming Interface (API) for the 
 [Practical Video 16 - Move Pirate JavaFX Buttons (for the Pirate Game API)](https://drive.google.com/file/d/1anLYLFpIDp8z4mBVG-VdIWCjCHkSZyIw/view)
 
 [Practical Video 17 - Add Pirate, Weapon and Potion JavaFX Buttons (for the Pirate Game API)](https://drive.google.com/file/d/1WTN8z1UFfPFU4fbUVF2-Vj6TNc1IgoCr/view)
+
+# Managing XML File using Regular Expressions
+
+[Practical Video 18 - Learning Regular Expressions)](https://drive.google.com/file/d/1GD_CNBR7EV9kGkVEIQNxtXpa2dHc0NCJ/view)
+
+[Practical Video 19 - Learning Java IO with Regular Expressions](https://drive.google.com/file/d/173ZeC83rgsISC6uhT8p_Uktu-K0v4RBr/view)
+
+[Practical Video 20 - Sample Managing XML File](https://drive.google.com/file/d/1rtPKFtWubJk8Tu2kcDiYX2eJOj01swHI/view)
